@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi，我是 JiangJiang</h1>
-<h3 align="center">一名前端组长 | Vue 专家 | 探索 React 与远程工作的践行者</h3>
+<h3 align="center">一名前端组长 | Vue 专家 | 探索 React 与Remote Working的践行者</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=专注Vue%2C+精研React%2C+热爱源码;热衷分享%2C+技术布道者;用技术和内容打造影响力" />
